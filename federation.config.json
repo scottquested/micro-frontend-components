@@ -1,0 +1,6 @@
+{
+  "name": "mfe_components",
+  "exposes": {
+    "./Button": "./src/components/Button/index"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "singleQuote": true,
+  "trailingComma": "none",
+  "arrowParens": "avoid",
+  "bracketSpacing": true,
+  "importOrder": [
+    "^(react)$",
+    "^@(.+)$",
+    "<THIRD_PARTY_MODULES>",
+    "^[./].*(?<!scss|types)$",
+    ".types$",
+    ".scss$"
+  ],
+  "importOrderSeparation": false,
+  "importOrderSortSpecifiers": true
+}
